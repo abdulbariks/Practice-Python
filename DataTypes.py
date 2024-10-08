@@ -46,3 +46,4 @@ print(type(x))
 # None Type:	NoneType
 x = None
 print(type(x))
+
